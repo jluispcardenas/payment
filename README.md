@@ -1,3 +1,9 @@
+<img
+  alt="Screen"
+  src="https://raw.githubusercontent.com/jluispcardenas/payment/master/screen.png"
+  width="400"
+/>
+
 # Accept payments from bitcoin
 
 This package enables you to accept payments from bitcoin. 
@@ -58,6 +64,9 @@ public function showOrderDetails()
 		return view('store.payment')->with(compact('order', 'paymentGateway'));
 	 }
 ```
+
+![Ejemplo](/images/logo.png)
+
 
 ## Remarks
 This module is derived from the WooComerce module for bitcoin: http://www.bitcoinway.com/
