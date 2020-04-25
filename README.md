@@ -70,3 +70,9 @@ public function showOrderDetails()
 
 ## Remarks
 This module is derived from the WooComerce module for bitcoin: http://www.bitcoinway.com/
+
+
+## Licence
+
+This project is licensed under the MIT License
+
