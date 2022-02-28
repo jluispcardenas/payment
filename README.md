@@ -76,3 +76,4 @@ This module is derived from the WooComerce module for bitcoin: http://www.bitcoi
 
 This project is licensed under the MIT License
 
+  
